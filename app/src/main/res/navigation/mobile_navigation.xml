@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.firstalert.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
+        android:name="com.example.firstalert.ui.contacts.ContactsFragment"
+        android:label="@string/title_contact"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.example.firstalert.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
+        android:name="com.example.firstalert.ui.settings.SettingsFragment"
+        android:label="@string/title_settings"
         tools:layout="@layout/fragment_notifications" />
 </navigation>
