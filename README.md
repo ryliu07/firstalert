@@ -1,6 +1,6 @@
 # 4F03_Assignment_3
 
-Assignment 3 designed to investigate the impact of communication and cache on a problem with MPI using Matrix-Matrix multiplication.
+Assignment 3 is designed to investigate the impact of communication and cache on a problem with MPI using Matrix-Matrix multiplication.
 
 ## Specifications
 
@@ -15,10 +15,10 @@ Assignment 3 designed to investigate the impact of communication and cache on a 
 
 ## Variables
 
-- n = Number of columns of the matrix A
-- m = Number of rows of the matrix A
+- n = Number of rows of the matrix A
+- m = Number of columns of the matrix A
 - d = Type of major scheme during computation: 0 Row-Major, 1 Column-Major
-- r = The number of the nodes used to execute the program
+- r = The number of nodes used to execute the program
 
 ## Makefile
 
