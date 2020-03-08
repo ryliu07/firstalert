@@ -22,7 +22,7 @@ Assignment 3 is designed to investigate the impact of communication and cache on
 
 ## Makefile
 
-- Make the program 
+- Build the program 
 ```bash
 make 
 ```
